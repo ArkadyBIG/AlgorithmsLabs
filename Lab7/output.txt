@@ -1,0 +1,59 @@
+Adding 0
+NEW TREE
+0:0
+Adding 5
+NEW TREE
+0:1
+	5:0
+
+Adding 6
+NEW TREE
+6:0
+0:1
+	5:0
+
+
+Adding 4
+NEW TREE
+0:2
+	4:1
+		6:0
+
+	5:0
+
+
+Adding 3
+NEW TREE
+3:0
+0:2
+	4:1
+		6:0
+
+	5:0
+
+
+
+Adding 7
+NEW TREE
+3:1
+	7:0
+
+0:2
+	4:1
+		6:0
+
+	5:0
+
+
+
+Adding 9
+NEW TREE
+9:0
+3:1
+	7:0
+
+0:2
+	4:1
+		6:0
+
+	5:0
